@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-02-24T18:55:09.124538",
+            "datePublished": "2026-07-16T09:13:24.825538",
             "hasPart": [
                 {
                     "@id": "metagenomic-genes-catalogue.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#6e507941-cd1b-483f-8519-239460e4ea88"
+                    "@id": "#4985596c-c9ef-42ff-bd07-b7ee8141d83d"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/metagenomic-genes-catalogue",
-            "version": "1.2.1"
+            "version": "1.2.2"
         },
         {
             "@id": "#galaxy",
@@ -93,7 +93,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#6e507941-cd1b-483f-8519-239460e4ea88",
+            "@id": "#4985596c-c9ef-42ff-bd07-b7ee8141d83d",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.38"
+            "engineVersion": ">=0.75.45"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
